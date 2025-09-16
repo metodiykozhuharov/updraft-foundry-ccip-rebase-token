@@ -1,0 +1,23 @@
+# === Compiler artifacts (Foundry & zkSync) ===
+cache/
+out/
+zkout/
+
+# === Dependencies ===
+lib/
+
+# === Broadcast logs (deployment data) ===
+broadcast/                 
+
+# === Documentation ===
+docs/                   
+
+# === Secrets / configs ===
+.env               
+.keystore
+
+# === OS-specific ===
+.DS_Store                
+
+# === Editor configs ===
+.vscode/
