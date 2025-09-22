@@ -1,4 +1,4 @@
-# 🏗️ Foundry Cross Chain Rebase Token
+# 🏗️ Foundry Cross Chain Rebase Token (WIP)
 
 **[⭐️ Updraft Advance Foundry | Cross Chain Rebase Token](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/introduction)**
 
